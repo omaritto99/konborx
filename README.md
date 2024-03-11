@@ -178,15 +178,15 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on;%F0%9F%92%AC+Let's+chat+:D;)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/azzolinilucas/" target="_blank">
+  <a href="https://www.linkedin.com/in/omaritto99/" target="_blank">
     <img title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:lucasazzollinivieira@gmail.com" target="_blank">
+  <a href="mailto:omarkonbora@gmail.com" target="_blank">
     <img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="mailto:lucasazzollinivieira@gmail.com" target="_blank">
+  <a href="mailto:omarkonbor@gmail.com" target="_blank">
     <img title="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 

@@ -148,28 +148,28 @@
 
  
 <div width="100%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-zz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="lucas-zz_contribution_streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konborx&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="konborx_contribution_streak" />
 </div>
  
 <div width="110%" align="center">
-  <a href="https://github.com/Lucas-zz?tab=repositories" target="_blank">
+  <a href="https://github.com/konborx?tab=repositories" target="_blank">
     <!--
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=konborx&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
     -->
-    <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-zz&theme=github_dark"/>
+    <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=konborx&theme=github_dark"/>
   </a>
   
-  <a href="https://github.com/Lucas-zz?tab=repositories" target="_blank">
+  <a href="https://github.com/konborx?tab=repositories" target="_blank">
     <!--
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konborx&langs_count=8&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
     -->
-    <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-zz&theme=github_dark"/>
+    <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=konborx&theme=github_dark"/>
   </a>
 </div>
 
 <!--
 <div align="center">
-  <img width="100%" align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/output/github-contribution-grid-snake.svg" />
+  <img width="100%" align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/konborx/konborx/output/github-contribution-grid-snake.svg" />
 </div>
 -->
 
